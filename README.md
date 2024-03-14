@@ -60,6 +60,7 @@ certain locations so that help can be allocated to them accordingly.
 3. After we train our model and predict on large amounts of areas, we will then put our data
 on an interactive map so that the government or private sector can utilize it to influence
 decision making.
+
 Expected Outputs/Deliverables
 1. A Correlation matrix for SDOH variables and outcomes.
 2. An interpretation of model(s)’ performance including classification metrics and the
