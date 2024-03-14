@@ -10,6 +10,7 @@ may be of greater importance than healthcare or lifestyle choices in influencing
 Research cited by the WHO suggests that SDOH accounts for 30-55% of health outcomes. In
 recent years, government organizations and private sector companies have been focusing
 resources towards closing social gaps.
+
 Objectives
 ● Evaluate the impact of social determinants on the following:
 ○ Unhealthy Behaviors (obesity, sleep, smoking, physical activity, etc.)
@@ -18,6 +19,7 @@ doctor’s visits, etc.)
 ○ Health Outcomes (high blood pressure, diabetes, stroke, cancer, chronic kidney
 disease, mortality, etc.)
 ● Identify high risk populations to propose interventions and improve resource allocation.
+
 Data
 The 500 Cities-Places dataset is provided by the Centers for Disease Control and Prevention
 (CDC), Division of Population Health, Epidemiology and Surveillance Branch. The project for
@@ -42,6 +44,7 @@ as medication scheduling, past history, diagnosis, geographic information, nurse
 We are hoping the information provided by the eicu-crd database will help illuminate social
 determinant factors relating to disease onset for preventive care. The eicu-crd database will
 require permission in order to access.
+
 Proposed Approach
 We can split our approach into two components, prediction/analysis and visualization.
 1. To preserve data interpretability, we avoid using PCA for feature reduction. Instead, we
